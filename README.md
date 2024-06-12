@@ -15,8 +15,8 @@ This repository contains a Python implementation of an age detection model using
 1. Clone the repository
 2. Install the necessary dependencies
 3. Download and place the dataset in the designated folder
-4. Run the Python script to train and evaluate the model.
-5. Modify the code or dataset to experiment with different approaches or age detection tasks.
+4. Run the Python script to train and evaluate the model
+5. Modify the code or dataset to experiment with different approaches or age detection tasks
 
 **Future Improvements:**
 
